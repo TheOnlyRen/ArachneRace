@@ -1,0 +1,61 @@
+{
+  "objectName" : "arachnelamppost",
+  "colonyTags" : ["outdoor", "light", "arachne"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "light",
+  "price" : 125,
+  "description" : "A violet lamp post.",
+  "shortdescription" : "Arachne Lamp Post",
+  "race" : "arachne",
+
+  
+  "arachneDescription" : "A standard Arachne lamp post.",
+
+  "lightColor" : [231, 23, 183],
+  "pointLight" : true,
+  "pointBeam" : 1.75,
+  "beamAmbience" : 0.45,
+
+  "inventoryIcon" : "arachnelampposticon.png",
+  "orientations" : [
+    {
+      "image" : "arachnelamppost.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "left",
+      "flipImages" : true,
+      "lightPosition" : [0, 6],
+      "beamAngle" : 265,
+      "animationPosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "arachnelamppost.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+      "lightPosition" : [0, 6],
+      "beamAngle" : 265,
+      "animationPosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "arachnelamppost.animation",
+  "animationParts" : {
+    "bg" : "arachnelamppost.png",
+    "fg" : "arachnelamppostlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 4] ]
+}

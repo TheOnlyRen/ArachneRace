@@ -1,0 +1,12 @@
+{
+  "itemName" : "silkbar",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "silkbar.png",
+  "description" : "It's a bar of compressed silk!",
+  "shortdescription" : "Silk bar",
+  "learnBlueprintsOnPickup" : [
+        "arachnet2spear", "arachneplatformitem", "arachnebeamitem", "arachnegirderitem", "arachneblockitem", "arachnepanelitem", "arachnesmoothblockitem", "arachnesmoothblock2item", "webbomb", "widowmakerrevolver"
+  ]
+}

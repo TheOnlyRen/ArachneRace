@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "silkfibre", "count" : 10},
+    { "item" : "wheatseed", "count" : 10},
+    { "item" : "fabric", "count" : 10}
+  ],
+  "output" : { "item" : "arachnebeanbag", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

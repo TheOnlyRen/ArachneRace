@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "silkfibre", "count" : 5 },
+    { "item" : "plantfibre", "count" : 4 },
+    { "item" : "glowfibre", "count" : 4 }
+  ],
+  "output" : { "item" : "arachnelamp", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

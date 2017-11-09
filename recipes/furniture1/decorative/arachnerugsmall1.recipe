@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "silkfibre", "count" : 8 },
+    { "item" : "fabric", "count" : 6},
+    { "item" : "purpledye", "count" : 1}
+  ],
+  "output" : { "item" : "arachnerugsmall1", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

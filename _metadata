@@ -1,0 +1,11 @@
+{
+  "author" : "Quintexial",
+  "description" : "Adds race of half-spider, half-humans known as Arachne.\n\n\n~~Features~~\n\nFurniture:\n-Lamp: arachnelamp\n-Desk Lamp: arachnedesklamp\n-Lamp Post: arachnelamppost\n-Lights: arachnelight (horizontal) & arachnelight2 (vertical)\n-Beds: arachneeggbed & arachnebed\n-Bench: arachnebench\n-Doors: arachnedoor & arachnedoor2\n-Tables: arachnelargetable & arachnesmalltable\n\nTiles:\n\nRecipes unlocked by silk bar\n-Arachne Plating\n-Arachne Panels\n-Arachne Cornering\n-Arachne Colored Cornering\n-Arachne Beam\n-Arachne Girder\n\nWeapons:\n\n-Web Machete\n-Web Whip\n-Tiered spears: Craftable in webloom\n\nOther:\n\n-Silk Bar\n-Webloom \n-Web Rope\n\n-Adjusted hitbox for the Arachne's bigger size\n\nCurrently using a placeholder ship. Looking for someone to design the ship.\n\nCredit to \"Meme Trash\" for some assets in the mod.\n\nCredit to Antyrus for the original mod. I got permission from him to revive the mod.\n",
+  "friendlyName" : "Arachne Race",
+  "link" : "steam://url/CommunityFilePage/1164332913",
+  "name" : "Arachne Race Mod",
+  "path" : "",
+  "steamContentId" : "1164332913",
+  "tags" : "Species",
+  "version" : "Starbound 1.3.3 - Stable (Mod Version 1.5.3)"
+}

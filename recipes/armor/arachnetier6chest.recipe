@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 10 },
+    { "item" : "silkfibre", "count" : 5 },
+    { "item" : "arachnetier5chest", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "arachnetier6chest",
+    "count" : 1
+  },
+  "groups" : [ "craftingaccelerator", "armours", "all" ]
+}

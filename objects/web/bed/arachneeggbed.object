@@ -1,0 +1,44 @@
+{
+  "objectName": "arachneeggbed",
+  "colonyTags" : ["arachne", "misc"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 125,
+  "description" : "Silky egg-shaped bed.",
+  "shortdescription" : "Arachne Egg Bed",
+  "race" : "arachne",
+  "printable" : false,
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitOrientation" : "lay",
+  "sitAngle" : 0,
+  "sitEmote" : "sleep",
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+   "sitStatusEffects" : [
+    "bed3"
+  ],
+  "inventoryIcon" : "arachneeggbedicon.png",
+  "orientations" : [
+
+    {
+      "image" : "arachneeggbed.png:<color>",
+      "sitCoverImage" : "/objects/web/bed/arachneeggbedcover.png",
+      "flipImages" : true,
+      "imagePosition" : [-24, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["top"],
+      "direction" : "left",
+      "sitPosition" : [13.8, 29]
+    },
+    {
+      "image" : "arachneeggbed.png:<color>",
+      "sitCoverImage" : "/objects/web/bed/arachneeggbedcover.png",
+      "imagePosition" : [-24, 0],
+      "spaceScan" : 0.1,
+      "anchors" : ["top"],
+      "direction" : "right",
+      "sitPosition" : [-2, 29]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "milk", "count" : 2 },
+    { "item" : "goldore", "count" : 5 },
+    { "item" : "silkfibre", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "spiderpetegg2",
+    "count" : 1
+  },
+  "groups" : [ "webloom", "arachneegg" ]
+}

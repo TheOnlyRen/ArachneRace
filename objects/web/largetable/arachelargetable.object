@@ -1,0 +1,27 @@
+{
+  "objectName" : "arachnelargetable",
+  "colonyTags" : ["arachne", "misc"],
+  "printable" : true,
+  "rarity" : "Common",
+  "description" : "A large silky table.",
+  "shortdescription" : "Arachne Table",
+  "race" : "arachne",
+  "category" : "furniture",
+  "price" : 145,
+
+  "inventoryIcon" : "/objects/web/largetable/arachnelargetableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "/objects/web/largetable/arachnelargetable.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

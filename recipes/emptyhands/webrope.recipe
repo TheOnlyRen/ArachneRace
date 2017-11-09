@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "silkfibre", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "webrope",
+    "count" : 3
+  },
+  "groups" : [ "plain", "all", "other" ]
+}

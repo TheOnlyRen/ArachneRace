@@ -1,0 +1,39 @@
+{
+  "objectName" : "arachnebench",
+  "colonyTags" : ["arachne", "misc"],
+  "itemTags" : [],
+  "printable" : true,
+  "rarity" : "Common",
+  "objectType" : "loungeable",
+
+  "description" : "A silky bench.",
+  "shortdescription" : "Arachne Bench",
+  "race" : "arachne",
+  "category" : "furniture",
+
+  "inventoryIcon" : "arachnebenchicon.png",
+  "orientations" : [
+    {
+      "image" : "arachnebench.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "flipImages" : true,
+      "direction" : "left",
+      "sitPosition" : [7, 21]
+    },
+    {
+      "image" : "arachnebench.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "direction" : "right",
+      "sitPosition" : [7, 21]
+    }
+  ],
+  "sitFlipDirection" : false
+}
