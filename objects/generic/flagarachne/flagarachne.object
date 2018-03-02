@@ -8,9 +8,10 @@
   "price" : 70,
   "radioMessagesOnPickup" : [ "pickupflag" ],
   
-  "description" : "A web-like flage. Use ^red;[E]^white; to bookmark a teleportation location.",
+  "description" : "An interwoven flag. Use ^red;[E]^white; to bookmark a teleportation location.",
   "shortdescription" : "Arachnid Flag",
   "race" : "arachne",
+  "arachneDescription" : "The flag of my people. I can mark this for teleportation."
   "apexDescription" : "An Arachnid flag. I can use this as a waypoint for teleportation.",
   "avianDescription" : "This Arachnid flag can be bookmarked as a destination for my ship teleporter.",
   "floranDescription" : "Arachnid flag makess good point to teleport back to ussing teleporter",
