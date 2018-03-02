@@ -14,7 +14,7 @@
   
   "statusEffects" : [ ],
 
-  "lightColor" : [231, 23, 183],
+  "lightColor" : [128, 128, 255],
   
   "inventoryIcon" : "arachnelampicon.png",
   "orientations" : [

@@ -12,10 +12,10 @@
   
   "arachneDescription" : "A standard Arachne lamp post.",
 
-  "lightColor" : [231, 23, 183],
+  "lightColor" : [128, 128, 255],
   "pointLight" : true,
   "pointBeam" : 1.75,
-  "beamAmbience" : 0.45,
+  "beamAmbience" : 0.5,
 
   "inventoryIcon" : "arachnelampposticon.png",
   "orientations" : [

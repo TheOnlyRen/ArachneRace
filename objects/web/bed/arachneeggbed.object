@@ -29,7 +29,7 @@
       "spaceScan" : 0.1,
       "anchors" : ["top"],
       "direction" : "left",
-      "sitPosition" : [13.8, 29]
+      "sitPosition" : [9.8, 33]
     },
     {
       "image" : "arachneeggbed.png:<color>",
@@ -38,7 +38,7 @@
       "spaceScan" : 0.1,
       "anchors" : ["top"],
       "direction" : "right",
-      "sitPosition" : [-2, 29]
+      "sitPosition" : [-5.8, 33]
     }
   ]
 }

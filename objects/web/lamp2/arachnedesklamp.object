@@ -10,7 +10,7 @@
   
   "category" : "light",
   "price" : 75,
-  "lightColor" : [231, 23, 183],
+  "lightColor" : [128, 128, 255],
   "pointLight" : true,
   "pointBeam" : 4,
   "beamAmbience" : 0.7,
